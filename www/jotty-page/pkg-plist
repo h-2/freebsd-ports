@@ -1,5 +1,4 @@
 %%ETCDIR%%.env.sample
-etc/rc.d/jotty_page
 %%DATADIR%%/.agents/skills/jotty/SKILL.md
 %%DATADIR%%/.agents/skills/jotty/references/api.md
 %%DATADIR%%/.agents/skills/jotty/references/auth.md

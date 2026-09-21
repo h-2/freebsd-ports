@@ -1,3 +1,7 @@
-TIMESTAMP = 1788780206
+TIMESTAMP = 1789917917
+SHA256 (swc-wasm-nodejs-16.3.0.tgz) = 5f2814dd8ab244fec2a01b082fd7ae79f176334568c10a1128780acc84acd62d
+SIZE (swc-wasm-nodejs-16.3.0.tgz) = 6810435
+SHA256 (jotty-page-1.27.0-node-modules.tar.gz) = 1ae4ee96897845f82c21c28a40056ab77c955038e75df3345ea341bd3318f3ca
+SIZE (jotty-page-1.27.0-node-modules.tar.gz) = 908899244
 SHA256 (fccview-jotty-1.27.0_GH0.tar.gz) = dcb8d264e155216b5f1a8bcc0eb5f6c6fc1406e13b8bb34723bfd971549b3fc3
 SIZE (fccview-jotty-1.27.0_GH0.tar.gz) = 33561163
